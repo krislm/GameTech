@@ -12,7 +12,7 @@ package guessanumber;
 public class Controller implements Ctrl {
 
 
-    //amount of guesses
+    //amount of guesses = the players score
     int score=0;
 
     @Override
